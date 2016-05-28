@@ -8,7 +8,6 @@ The API provided by CleanroomLogger is designed to be readily understood by anyo
 
 CleanroomLogger is part of [the Cleanroom Project](https://github.com/gilt/Cleanroom) from [Gilt Tech](http://tech.gilt.com).
 
-
 #### Why CleanroomLogger?
 
 If you’re familiar with [`NSLog()`](https://developer.apple.com/library/ios/documentation/Cocoa/Reference/Foundation/Miscellaneous/Foundation_Functions/index.html#//apple_ref/c/func/NSLog), then you’ll understand the purpose of CleanroomLogger.
